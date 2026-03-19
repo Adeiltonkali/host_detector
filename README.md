@@ -24,7 +24,7 @@ If a device responds, it is marked as **active** and printed on the screen.
 ### 🔽 Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/active-host-scanner.git
+git clone https://github.com/Adeiltonkali/active-host-scanner.git
 cd active-host-scanner
 ```
 
